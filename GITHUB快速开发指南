@@ -1,0 +1,17 @@
+gitHub开发快捷方法
+
+1、下载gitHub客户端(安装.netfromework4.5)
+2、下载atom编辑器（在客户端repository中选atom打开）
+3、Atom汉化步骤：（放到.atom/packages/）
+  ~/.atom/packages (linux系统)
+  C:\Users\windyofsky\.atom\packages (windows系统)
+
+4、Atom中文汉化插件地址：（拉取后直接放到上述位置，重启atom即可）
+    https://github.com/chinakids/atom-simplified-chinese-menu.git
+
+总结：
+  github客户端有一定局限性
+   项目的如下功能在客户端都是不显示的：
+   <>Code  Issues 0  Pull requests 0  Projects 0  Wiki
+
+   时刻关注项目进度还需要与网页同时使用。
